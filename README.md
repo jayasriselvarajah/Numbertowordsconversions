@@ -4,7 +4,7 @@ Download the source code by  selecting "Download ZIP"(Numbertoword-project)zip f
 
 ### 2. Extract the ZIP File
 
-Extract the downloaded ZIP file to a location on your local machine.
+Extract the downloaded ZIP(Numbertoword-project) file to a location on your local machine.
 
 ### 3. Build the Application
 
