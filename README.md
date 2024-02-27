@@ -1,6 +1,6 @@
 ### 1. Download the Source Code
 
-Download the source code by  selecting "Download ZIP"(Numberrowordconversions)
+Download the source code by  selecting "Download ZIP"(Numbertoword-project)zip file.
 
 ### 2. Extract the ZIP File
 
